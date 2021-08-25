@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+⚛️ I'm a particle physics phenomenologist, currently working as a post-doc at [La Sapienza, Università di Roma](https://www.phys.uniroma1.it/fisica/).
+
+At the moment, my GitHub is almost exclusively physics related things.
+See my [work page](https://www.roma1.infn.it/~kirkmatt/) for more info!
+
 <!--
 **MJKirk/MJKirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
