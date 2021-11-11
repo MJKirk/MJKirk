@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚛️ I'm a particle physics phenomenologist, currently working as a post-doc at [La Sapienza, Università di Roma](https://www.phys.uniroma1.it/fisica/).
+⚛️ I'm a particle physics phenomenologist, currently working as a post-doc at the [ICC, Universitat di Barcelona](https://icc.ub.edu/).
 
 At the moment, my GitHub is almost exclusively physics related things.
 See my [work page](https://mjkirk.github.io/) for more info!
