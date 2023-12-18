@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚛️ I'm a particle physics phenomenologist, currently working as a post-doc at the [ICC, Universitat di Barcelona](https://icc.ub.edu/).
+⚛️ I'm a particle physics phenomenologist, currently working as a post-doc at the [IPPP, Durham University](https://www.ippp.dur.ac.uk/).
 
 At the moment, my GitHub is almost exclusively physics related things.
 See my [work page](https://mjkirk.github.io/) for more info!
